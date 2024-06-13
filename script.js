@@ -38,9 +38,9 @@ const question = [
 {
     question: " Sebuah tanah berbentuk setengah lingkaran dengan diameter 42 m. Di sekeliling tanah tersebut akan ditanami pohon kelapa dengan jarak antar pohon 3 m. Banyak pohon kelapa yang dibutuhkan adalah?", 
     answer: [
-        { Text:"36", correct:false },
+        { Text:"36", correct:true },
         { Text:"46", correct:false },
-        { Text:"48", correct:true },
+        { Text:"48", correct:false },
         { Text:"67", correct:false },
     ]  
 },
